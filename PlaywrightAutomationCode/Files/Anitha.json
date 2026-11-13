@@ -1,0 +1,31 @@
+{
+    "TestData1": {
+        "Name": "Quality",
+        "Email": "Quality@gmail.com",
+        "phone": "8908908900",
+        "address": "hyderabad",
+        "wikipedia": "testing"
+    },
+    "TestData2": {
+        "Name": "playwright",
+        "Email": "playwright@gmail.com",
+        "phone": "6789067890",
+        "address": "bangalore",
+        "wikipedia": "selenium"
+    },
+    "TestData3": {
+        "Name": "screen",
+        "Email": "screen@gmail.com",
+        "phone": "5678907890",
+        "address": "chennai",
+        "wikipedia": "javascript"
+    },
+    "credentials": {
+        "orangeHRM_Username": "Admin",
+        "orangeHRM_Password": "admin123",
+        "OrangeHRM_url": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+        "username_FYP": "Quality",
+        "username_AdminPage": "Testing",
+        "orangeHRM_Title": "OrangeHRM"
+    }
+}
